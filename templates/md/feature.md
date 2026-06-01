@@ -1,0 +1,19 @@
+```markdown
+## [[Feature Name]]
+
+### Goal
+
+What needs to be built.
+
+### Changes Needed
+
+- Add ...
+- Modify ...
+- Remove ...
+
+### Acceptance Criteria
+
+- [ ] ...
+- [ ] ...
+- [ ] ...
+```

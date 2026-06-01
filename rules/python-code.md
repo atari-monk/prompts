@@ -1,0 +1,1 @@
+- Strict Typing that passes Pylance strict mode

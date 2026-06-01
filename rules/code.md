@@ -1,0 +1,11 @@
+- Structs and functions, procedural coding style
+- Generate correct, runnable code that fully satisfies the feature requirements
+- No overengineering beyond feature scope
+- The output must be directly usable in a real codebase without modification
+- Code must be production-grade
+- No comments
+- No unused imports
+- Minimal but clean abstractions
+- Output ONLY code and required file structure
+- If multiple files are needed, clearly separate them
+- Full file rewrite for all modified files

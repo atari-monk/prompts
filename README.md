@@ -1,0 +1,2 @@
+## Repository storing [docs](https://atari-monk.github.io/prompts) with prompts, rules, document templates
+## Repozytorium przechowujące [dokumenty](https://atari-monk.github.io/prompts) z monitami, zasadami i szablonami dokumentów
