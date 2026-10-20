@@ -1,0 +1,9 @@
+Task.
+
+Implement Python code based on the Software Requirements Specification.
+
+Use strict types.
+
+Use a procedural coding style, with structs and functions.
+
+For structs, use the best equivalent available in Python.
