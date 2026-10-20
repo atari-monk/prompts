@@ -1,0 +1,13 @@
+Task.
+
+Based on SRS, implement new feature in existing Language code.
+
+Use strict types.
+
+Use a procedural coding style, with structs and functions.
+
+For structs, use the best equivalent available in Language.
+
+Dont use any comments.
+
+Return only code.

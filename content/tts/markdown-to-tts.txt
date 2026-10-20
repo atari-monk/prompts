@@ -1,0 +1,9 @@
+Task.
+
+Given a Markdown file, convert it to plain text for use as content in a text-to-speech generator.
+
+Make sure punctuation controls proper speech generation.
+
+Remove any markers that could interfere with speech.
+
+Do not change the meaning of the text.

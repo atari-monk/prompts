@@ -1,0 +1,13 @@
+Task.
+
+Implement Language code based on the Software Requirements Specification.
+
+Use strict types.
+
+Use a procedural coding style, with structs and functions.
+
+For structs, use the best equivalent available in Language.
+
+Dont use any comments.
+
+Return only code.
